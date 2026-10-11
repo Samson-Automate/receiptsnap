@@ -1,0 +1,9 @@
+pdfplumber
+pandas
+openpyxl
+reportlab
+pytesseract
+Pillow
+pdf2image
+streamlit
+google-generativeai
